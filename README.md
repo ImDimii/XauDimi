@@ -1,4 +1,6 @@
-<img width="1343" height="428" alt="image" src="https://github.com/user-attachments/assets/ccd2cc7e-8f4f-4289-b822-4dc4c2e2e519" />
+<img width="1343" height="428" alt="Schermata del 2025-07-25 11-28-44" src="https://github.com/user-attachments/assets/7736c433-d2b3-4f85-898c-99d018016f67" />
+
+
 
 Questo programma è un sistema client-server sviluppato in Python progettato per l'invio in tempo reale di segnali di trading XAU/USD (oro/dollaro) attraverso connessioni WebSocket. Il server esegue un'analisi continua dei dati di mercato e invia i segnali ai client connessi. Per garantire la sicurezza e l'accesso controllato, l'intero sistema utilizza un meccanismo di autenticazione basato su key.
 
